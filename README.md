@@ -5,14 +5,7 @@ GoService é uma solução tecnológica inovadora projetada para otimizar o agen
 Este sistema tem como objetivo simplificar o processo de marcação de compromissos, melhorar a eficiência operacional e
 proporcionar uma experiência mais conveniente tanto para prestadores de serviços quanto para clientes.
 
- ## Como Usar
- 1. Clone o repositório: `git clone https://github.com/F-Gabriel-Braga/go-service`
- 2. Acesse o projeto em um ambiente de desenvolvimento Spring
- 3. Instale as depedências necessárias com Maven
- 4. Configure as variáveis de conexão com banco de dados
- 5. Execute o arquivo `GoserviceDevApplication.java`
-
-## Tecnologias Utilizadas
+## Tecnologias
 * Java
 * Thymeleaf
 * Bootstrap
@@ -21,6 +14,13 @@ proporcionar uma experiência mais conveniente tanto para prestadores de serviç
 * SpringSecurity
 * MySQL
 * MongoDB
+
+ ## Como Usar
+ 1. Clone o repositório: `git clone https://github.com/F-Gabriel-Braga/go-service`
+ 2. Acesse o projeto em um ambiente de desenvolvimento Spring
+ 3. Instale as depedências necessárias com Maven
+ 4. Configure as variáveis de conexão com banco de dados
+ 5. Execute o arquivo `GoserviceDevApplication.java`
 
 ## Contribuição
 Se você quiser contribuir para este projeto, siga estas etapas:

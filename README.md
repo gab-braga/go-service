@@ -14,6 +14,8 @@ proporcionar uma experiência mais conveniente tanto para prestadores de serviç
 
 ## Tecnologias Utilizadas
 * Java
+* Thymeleaf
+* Bootstrap
 * SpringBoot
 * SpringMVC
 * SpringSecurity

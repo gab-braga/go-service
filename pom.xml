@@ -8,9 +8,9 @@
 		<version>3.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.soulcode</groupId>
+	<groupId>io.github.fgabrielbraga</groupId>
 	<artifactId>goservice-dev</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>goservice-dev</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

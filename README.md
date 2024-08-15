@@ -16,7 +16,7 @@ proporcionar uma experiência mais conveniente tanto para prestadores de serviç
 * MongoDB
 
  ## Como Usar
- 1. Clone o repositório: `git clone https://github.com/F-Gabriel-Braga/go-service`
+ 1. Clone o repositório: `git clone https://github.com/gab-braga/go-service`
  2. Acesse o projeto em um ambiente de desenvolvimento Spring
  3. Instale as depedências necessárias com Maven
  4. Configure as variáveis de conexão com banco de dados
@@ -31,4 +31,4 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 5. Crie um pull request.
 
 ## Visualização
-![Captura de tela 2023-11-03 133437](https://github.com/F-Gabriel-Braga/GoService/assets/66652642/7f8e7102-f8bf-4173-b9f9-a5df938246aa)
+![Captura de tela 2023-11-03 133437](https://github.com/gab-braga/GoService/assets/66652642/7f8e7102-f8bf-4173-b9f9-a5df938246aa)

@@ -31,4 +31,4 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 5. Crie um pull request.
 
 ## Visualização
-![Captura de tela 2023-11-03 133437](https://github.com/gab-braga/GoService/assets/66652642/7f8e7102-f8bf-4173-b9f9-a5df938246aa)
+![Captura de tela 2023-11-03 133437](https://github.com/f-gabriel-braga/GoService/assets/66652642/7f8e7102-f8bf-4173-b9f9-a5df938246aa)
